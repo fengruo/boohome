@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="BoHome"
+  id="myeclipse.1505617241491"
+  context-root="/BoHome"
+  j2ee-spec="5.0"
+  archive="BoHome.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
